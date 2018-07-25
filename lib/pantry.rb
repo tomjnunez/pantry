@@ -1,0 +1,3 @@
+class Pantry
+
+end
